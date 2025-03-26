@@ -25,6 +25,7 @@ Live Beats WebRadio Player is a closed-source Windows application designed to pr
 - **Copy song information**: Easily copy the currently playing song information to the clipboard. 
 - **Save artist and song playing to a textfile with the click of a button. This textfile can then be used to easily download all the titles using Soulseek.
 - **There is a guard to check for duplicates:
+  
   ![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/Duplicate.png)
 
 ### Sleep Timer
