@@ -44,7 +44,7 @@ Live Beats WebRadio Player is a closed-source Windows application designed to pr
 
 ### Custom Themes
 - **Customize the application's appearance**: Select different themes from the settings panel to change the look and feel of the application.
-- **Create your own themes and name them as you wish and share them with anyone who uses Live Beats. You can export 1 selected theme or all your themes or import themes.
+- **Create your own themes and name them as you wish and share them with anyone who uses Live Beats. You can export 1 selected theme, all your themes or import themes.
 
 ![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/blue.png)
 
