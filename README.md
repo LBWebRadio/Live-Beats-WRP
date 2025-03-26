@@ -61,6 +61,8 @@ Live Beats WebRadio Player is a closed-source Windows application designed to pr
 - **Create PLS Files**: Create PLS playlist files for your favorite stations.
 - **Debug Metadata Fetcher**: Use the debug feature to fetch and display metadata from a specified URL.
 
+ ![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/settings.png)
+
 
     
     
