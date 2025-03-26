@@ -2,6 +2,8 @@
 
 Live Beats WebRadio Player is a closed-source Windows application designed to provide a seamless experience for streaming and managing online radio stations. This application offers a variety of features to enhance your listening experience, including station browsing, metadata fetching, and more.
 
+![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/blk%20orange.png)
+
 ## Features
 
 ### Stream Online Radio
@@ -11,6 +13,8 @@ Live Beats WebRadio Player is a closed-source Windows application designed to pr
 ### Station Browser
 - **Browse and search for popular radio stations**: Use the integrated Radio Browser API to find and play popular radio stations.
 - **Advanced search options**: Filter stations by country, tags, and more to find exactly what you're looking for.
+
+![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/Radio.png)
 
 ### Favorites Management
 - **Save and manage your favorite radio stations**: Easily add stations to your favorites and manage them using the favorites dropdown.
@@ -33,9 +37,18 @@ Live Beats WebRadio Player is a closed-source Windows application designed to pr
 - **Monitor multiple stations**: Monitor multiple stations and display their metadata without connecting. Perfect for keeping track of what's playing on different stations.
 - **Save monitored stations**: Save your monitored stations and load them back when you restart the application.
 
+![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/LB%201.png)
+
 ### Custom Themes
 - **Customize the application's appearance**: Select different themes from the settings panel to change the look and feel of the application.
 - **Create your own themes and name them as you wish and share them with anyone who uses Live Beats. You can export 1 selected theme or all your themes or import themes.
+
+![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/blue.png)
+
+![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/black.png)
+
+![Live Beats WebRadio Player Screenshot](https://github.com/LBWebRadio/Live-Beats-WRP/raw/main/white.png)
+
 ### User Registration
 - **Register the application**: Register the application to unlock premium features. The registration process is secure and easy to use.
 
