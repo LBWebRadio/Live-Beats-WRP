@@ -23,7 +23,7 @@ Live Beats WebRadio Player is a closed-source Windows application designed to pr
 ### Metadata Fetching
 - **Automatic metadata updates**: The application continuously fetches metadata from the stream to keep you updated on the currently playing song.
 - **Copy song information**: Easily copy the currently playing song information to the clipboard.
-- - **Save artist and song playing to a textfile with the click of a button. This textfile can then be used to easily download all the titles using Soulseek.
+- **Save artist and song playing to a textfile with the click of a button. This textfile can then be used to easily download all the titles using Soulseek.
 
 ### Sleep Timer
 - **Set a sleep timer**: Set a sleep timer to stop playback after a specified duration. Perfect for listening to music as you fall asleep.
